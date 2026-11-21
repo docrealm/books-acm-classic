@@ -2,10 +2,12 @@
 
 <https://www.codes-isss.org/portal_subdomain/classics/>
 
+> [!NOTE]
 > This list of classic books is the result of a poll ACM conducted where members named their favorite computer science books.
 > We hope you'll enjoy the books in this Classic Books series!
 
 | # | Book | authors | year |
+| -- | --- | --- | --- |
 | 1 | The computer and the brain | John von Neumann | 1958 |
 | 2 | A programming language | Kenneth E. Iverson | 1962 |
 | 3 | IBM system/360 principles of operation | IBM | 1964 |
